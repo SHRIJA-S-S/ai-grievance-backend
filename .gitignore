@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Deep learning models
+backend/models/
+*.pth
+*.safetensors
+
+# Data & images
+data/
+images/
+
+# Environment
+.env
+venv/
