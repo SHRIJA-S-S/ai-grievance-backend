@@ -4,3 +4,5 @@ python-multipart
 torch
 transformers
 pillow
+
+# force rebuild
